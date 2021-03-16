@@ -24,7 +24,7 @@ Binance has taken advantage of this new tech and now credits a user's account
 after just a single confirmation that said we are changing our GUI to increase our
 confirmation for the Lelantus mints from one to two in order to be spent
 
-Especially during upgrade periods Chainlocks can be desynchronized if coin fail to form.
+Especially during upgrade periods Chainlocks can be desynchronized if quorums fail to form.
 
 So the core team believes this to be essential.
 
