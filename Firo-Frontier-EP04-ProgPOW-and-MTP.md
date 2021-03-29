@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=0_SW4vzW-88
+
 Hi everyone it's your boy Spline Apple.
 
 You may notice I have a different setup.
